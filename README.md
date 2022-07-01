@@ -1,4 +1,4 @@
-# HTML-Calculator-
+# HTML Calculator
 A basic HTML calculator that can perform Athematic Operations.
 
 Hi! my name is Hamza and I have created a basic HTML calculator that can perform Athematic Operations. 
